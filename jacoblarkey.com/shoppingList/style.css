@@ -1,0 +1,42 @@
+html {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: white;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+
+}
+
+.inputField {
+  text-align: center;
+}
+
+.listItems {
+  text-align: center;
+}
+
+li {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.gotItBtn {
+  background-color: green;
+  margin-left: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+  text-decoration-color: #444;
+}
+
+.delBtn {
+  background-color: red;
+  margin-left: 10px;
+}
