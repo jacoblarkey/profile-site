@@ -1,3 +1,4 @@
+//Begin Background Generator
 var css = document.querySelector("h3");
 var colorOne = document.querySelector(".color1");
 var colorTwo = document.querySelector(".color2");
@@ -13,3 +14,4 @@ function colorChange() {
 
 colorOne.addEventListener("input", colorChange);
 colorTwo.addEventListener("input", colorChange);
+//End Background Generator
